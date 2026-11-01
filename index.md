@@ -87,4 +87,4 @@ If we change this policy we will update the date above and, for significant chan
 
 ## Complaints
 
-If you have a concern about how we handle your data, contact us first at [YOUR EMAIL]. We will try to resolve it promptly.
+If you have a concern about how we handle your data, contact us first at bodycalc.help@gmail.com. We will try to resolve it promptly.
