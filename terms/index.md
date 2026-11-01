@@ -8,7 +8,7 @@
 **Last updated:** [01.11.2026]
 
 These terms apply to everyone who uses the Jobshift app and website ("Jobshift", "we", "us"), operated by Bodycalc. By creating an account or using Jobshift you agree to these terms and to our Privacy Policy:
-https://muraza6.github.io/jobshift-privacy/.
+[https://mdeveloperpro.github.io/jobshift-privacy/](https://mdeveloperpro.github.io/jobshift-privacy/).
 
 If you do not agree, please do not use Jobshift.
 
@@ -36,7 +36,7 @@ You must not:
 We may refuse, suspend or remove any account, shift or application at any time, with or without notice, if we think these terms have been broken, if the law requires it, or to protect others. You can stop using Jobshift and ask us to delete your account at any time (see section 12).
 
 ### 6. Reports and disputes
-You can report a problem in the app (Profile > Report a problem) or by WhatsApp at [NUMBER]. We will try to look into reports quickly and may contact both sides, but we are not a court, and we cannot promise any particular result. Disputes about work or pay are between the employer and the student.
+You can report a problem in the app (Profile > Report a problem) or by WhatsApp . We will try to look into reports quickly and may contact both sides, but we are not a court, and we cannot promise any particular result. Disputes about work or pay are between the employer and the student.
 
 ### 7. Our liability
 Jobshift is provided "as is". To the extent the law allows, we are not responsible for:
@@ -58,10 +58,10 @@ We may change or stop any part of Jobshift. We may change these terms. If we mak
 Jobshift is in an early pilot. Features, availability and fees may change.
 
 ### 11. Governing law
-These terms are governed by the laws of India. Courts in [CITY, STATE] have jurisdiction, subject to any rights you have under law to bring a claim elsewhere.
+These terms are governed by the laws of India. Courts in New Delhi have jurisdiction, subject to any rights you have under law to bring a claim elsewhere.
 
 ### 12. Contact and deletion
-Email bodycalc.help@gmail.com or WhatsApp . To delete your account, follow the steps on our deletion page: https://muraza6.github.io/jobshift-privacy/delete-account.
+Email bodycalc.help@gmail.com or WhatsApp . To delete your account, follow the steps on our deletion page: https://mdeveloperpro.github.io/jobshift-privacy/delete-account.
 
 ---
 
@@ -108,7 +108,7 @@ You confirm that you are authorised to act for the business you register, that t
 You choose which applicants to accept, up to the number of workers you listed. Once you accept someone, you are expected to honour the booking. Cancel only if you have to, and as early as you can.
 
 ### 22. Paying workers
-- You are the employer for the shift and **you are responsible for paying every worker the agreed pay in full, directly to the worker, at the end of the shift** (and in any case within [24] hours), by UPI or other electronic payment where possible.
+- You are the employer for the shift and **you are responsible for paying every worker the agreed pay in full, directly to the worker, at the end of the shift** , by UPI or other electronic payment where possible.
 - Jobshift does not collect, hold or guarantee payments to workers.
 - You must keep a record of each payment, and in the app you may be asked to enter the payment reference (UTR) for each worker.
 - You must follow the law on minimum wages and overtime. The pay you list must not be below what the law requires for the work.
