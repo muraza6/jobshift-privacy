@@ -7,7 +7,7 @@
 
 **अंतिम अपडेट:** [01.11.2026]
 
-ये नियम Jobshift ऐप और वेबसाइट ("Jobshift", "हम") का उपयोग करने वाले सभी लोगों पर लागू होते हैं। इसका संचालन Bodycalc द्वारा किया जाता है। खाता बनाकर या Jobshift का उपयोग करके आप इन नियमों और हमारी गोपनीयता नीति https://mdeveloperpro.github.io/jobshift-privacy/ से सहमत होते हैं।
+ये नियम Jobshift ऐप और वेबसाइट ("Jobshift", "हम") का उपयोग करने वाले सभी लोगों पर लागू होते हैं। इसका संचालन Bodycalc द्वारा किया जाता है। खाता बनाकर या Jobshift का उपयोग करके आप इन नियमों और हमारी गोपनीयता नीति https://mdeveloperpro.github.io/jobshift-privacy/. से सहमत होते हैं।
 
 यदि आप सहमत नहीं हैं, तो कृपया Jobshift का उपयोग न करें।
 
@@ -62,7 +62,7 @@ Jobshift अभी शुरुआती पायलट चरण में ह
 ये नियम भारत के कानूनों के अधीन हैं।
 
 ### 12. संपर्क और खाता हटाना
-ईमेल करें: bodycalc.help@gmail.com या WhatsApp करें: । खाता हटाने के लिए हमारे खाता हटाने वाले पेज के चरण देखें: https://mdeveloperpro.github.io/jobshift-privacy/delete-account/।
+ईमेल करें: bodycalc.help@gmail.com या WhatsApp करें: । खाता हटाने के लिए हमारे खाता हटाने वाले पेज के चरण देखें: https://mdeveloperpro.github.io/jobshift-privacy/delete-account/.
 
 ---
 
